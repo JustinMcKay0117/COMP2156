@@ -1,0 +1,20 @@
+{
+    "name": "lab4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/JustinMcKay0117/COMP2156.git"
+    },
+    "keywords": [],
+    "bugs": {
+      "url": "https://github.com/JustinMcKay0117/COMP2156/issue"
+    },
+    "homepage": "https://github.com/JustinMcKay0117/COMP2156#readme",
+    "author": "",
+    "license": "ISC"
+  }
